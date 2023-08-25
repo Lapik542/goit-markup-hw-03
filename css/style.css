@@ -379,8 +379,6 @@ img {
   color: var(--navyblue, #2e2f42);
   text-align: center;
 
-  margin-bottom: 72px;
-
   /* Header 2 */
   font-family: Roboto;
   font-size: 36px;
@@ -389,6 +387,8 @@ img {
   line-height: 40px; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
+
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -443,8 +443,6 @@ img {
 .logotype-footer {
   display: inline-block;
 
-  margin-bottom: 16px;
-
   color: var(--iris, #4D5AE5);
     font-family: Raleway;
     font-size: 18px;
@@ -454,6 +452,8 @@ img {
     /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
+
+    margin-bottom: 16px;
 }
 
 .logo-studio-footer {
