@@ -169,10 +169,14 @@ img {
 
 /* HERO-SECTION */
 
-.hero-contant {
-  background-color: #2e2f42;
+.section-hero {
   padding-top: 188px;
   padding-bottom: 188px;
+  background-color: #2e2f42;
+}
+
+.hero-contant {
+  background-color: #2e2f42;
 }
 
 .description {
@@ -183,6 +187,8 @@ img {
 
   margin-left: auto;
   margin-right: auto;
+
+  margin-bottom: 48px;
 
   /* Header 1 */
   font-family: Roboto;
@@ -204,8 +210,14 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
 
-  margin-left: 636px;
-  margin-top: 48px;
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  min-width: 169px;
+
+  border-radius: 4px;
 
   padding-top: 16px;
   padding-bottom: 16px;
