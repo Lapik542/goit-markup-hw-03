@@ -139,10 +139,15 @@ img {
 
 }
 
-.list-address {
+.address {
   display: flex;
   gap: 40px;
   margin-left: 332px;
+}
+
+.list-address {
+  display: flex;
+  gap: 40px;
 }
 
 .page-address {
