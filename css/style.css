@@ -82,8 +82,9 @@ img {
 
 .page-navigation {
   display: flex;
-  padding-top: 25.5px;
-  padding-bottom: 25.5px;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .menu {
