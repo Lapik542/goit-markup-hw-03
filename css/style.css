@@ -46,7 +46,7 @@ img {
 }
 
 .container-page {
-  width: 1440px;
+  max-width: 1440px;
 }
 
 .container {
@@ -135,12 +135,12 @@ img {
   line-height: 1.17;
 
   margin-right: 76px;
-  margin-left: 156px;
 
 }
 
 .address {
   display: flex;
+  align-items: center;
   gap: 40px;
   margin-left: 332px;
 }
