@@ -146,6 +146,10 @@ img {
 }
 
 .page-address {
+  display: flex;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
   margin-right: 156px;
 }
 
