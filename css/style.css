@@ -234,6 +234,10 @@ img {
 
 /* TREITS-SECTEON */
 
+.traits {
+  padding: 120px 0;
+}
+
 .text-traits {
   color: var(--navyblue, #2E2F42);
   
@@ -278,12 +282,11 @@ img {
   justify-content: center;
   gap: 24px;
 
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .traits-list {
   width: 264px;
+  width: calc((100% - 72px) / 4);
 }
 
 /* TEAM-SECTION */
