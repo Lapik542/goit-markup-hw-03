@@ -267,6 +267,8 @@ img {
 .text-traits {
   color: var(--navyblue, #2E2F42);
   
+  margin-bottom: 8px;
+
     /* Header 3 */
     font-family: Roboto;
     font-size: 20px;
