@@ -325,8 +325,6 @@ img {
 .menu-team {
   color: var(--navyblue, #2e2f42);
 
-  margin-bottom: 72px;
-
   text-align: center;
 
   /* Header 2 */
@@ -338,6 +336,8 @@ img {
   line-height: 1.11em;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+
+  margin-bottom: 72px;
 }
 
 .team-name {
@@ -379,7 +379,7 @@ img {
   color: var(--navyblue, #2e2f42);
   text-align: center;
 
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 
   /* Header 2 */
   font-family: Roboto;
@@ -441,7 +441,9 @@ img {
 }
 
 .logotype-footer {
-  margin-left: 156px;
+  display: inline-block;
+
+  margin-bottom: 16px;
 
   color: var(--iris, #4D5AE5);
     font-family: Raleway;
@@ -471,8 +473,6 @@ img {
   width: 264px;
 
   padding-top: 17.5px;
-
-  margin-left: 156px;
 
   /* Body */
   font-family: Roboto;
